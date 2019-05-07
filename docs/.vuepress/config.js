@@ -3,7 +3,7 @@ module.exports = {
   description: 'Netlify + VuePress',
   themeConfig: {
     docsDir: 'docs',
-    repo: 'andreliem/vuepress-netlify-cms',
+    repo: 'userabuser/vbc',
     sidebar: [
       '/',
       '/welcome',
@@ -12,7 +12,7 @@ module.exports = {
     nav: [
       {
         text: 'Admin',
-        link: '/admin/#/',
+        link: '/admin',
       }
     ]
   }
